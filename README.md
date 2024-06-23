@@ -1,0 +1,1 @@
+Este repositorio contiene una colección de prompts diseñados para la creación de GPTs (Generative Pre-trained Transformers). Estos prompts están organizados por categorías y se utilizan para diversos fines, incluyendo la generación de textos, asistencia en tareas específicas y desarrollo de aplicaciones basadas en inteligencia artificial.
